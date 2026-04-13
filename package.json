@@ -1,0 +1,12 @@
+{
+  "name": "volta-padel-tv",
+  "version": "1.0.0",
+  "description": "Volta Padel TV ekraan",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
